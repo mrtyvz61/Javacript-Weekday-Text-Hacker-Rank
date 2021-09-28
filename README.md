@@ -1,6 +1,3 @@
-# Javacript-Weekday-Text-Hacker-Rank
-Javascript Basic Certification
-
 ## Javascript(Basic) - Weekday-Text-Hacker-Rank 
 
 Implement the function weekdayText such that:
